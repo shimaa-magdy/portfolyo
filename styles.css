@@ -1,0 +1,37 @@
+body{
+    background-color: bisque;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+}
+h2{
+    color: brown;
+}
+nav ul{
+    background-color: aquamarine;
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+    padding: 10px;
+
+}
+nav ul li{
+    display: inline;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+img{
+    width: 70%;
+    height: 50%;
+    border-radius: 30px;
+}
+table,th,td{
+    border: 1px solid white;
+    border-collapse: collapse;
+}
+tr{
+    background-color: aquamarine;
+    
+}
